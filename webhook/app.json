@@ -1,0 +1,16 @@
+{
+    "id": "e66c926f-6be8-4e27-80ca-0271da23b9e4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "WebHook",
+    "nameSlug": "webhook",
+    "classFile": "WebHookApp.ts",
+    "description": "Registering the API endpoint",
+    "implements": []
+}
