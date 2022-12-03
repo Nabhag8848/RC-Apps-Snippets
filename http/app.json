@@ -1,0 +1,16 @@
+{
+    "id": "9aaf09fa-15c1-439e-b6c7-eb243e595380",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "Http",
+    "nameSlug": "http",
+    "classFile": "HttpApp.ts",
+    "description": "Making HTTP req",
+    "implements": []
+}
