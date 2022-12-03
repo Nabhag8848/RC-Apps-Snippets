@@ -1,0 +1,16 @@
+{
+    "id": "f45074f5-b2d3-4cdf-b6a8-26220bd7f9d9",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag",
+        "homepage": "n/a'",
+        "support": "n/a"
+    },
+    "name": "ExtMessage",
+    "nameSlug": "extmessage",
+    "classFile": "ExtMessageApp.ts",
+    "description": "Extending Message",
+    "implements": []
+}
