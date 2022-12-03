@@ -1,0 +1,16 @@
+{
+    "id": "f279a3dd-3363-413a-b35c-8951a60960c4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "Phone",
+    "nameSlug": "phone",
+    "classFile": "PhoneApp.ts",
+    "description": "SubCommands",
+    "implements": []
+}
