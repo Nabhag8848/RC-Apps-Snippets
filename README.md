@@ -1,5 +1,5 @@
-# PhoneApp
-SubCommands
+# WebHook
+Registering the API endpoint
 
 ## Getting Started
 Now that you have generated a blank default Rocket.Chat App, what are you supposed to do next?
