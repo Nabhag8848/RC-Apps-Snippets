@@ -1,0 +1,18 @@
+{
+    "id": "d77e619b-84a8-4014-ab42-26d91be529dc",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "nabhag",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "playground",
+    "nameSlug": "playground",
+    "classFile": "PlaygroundApp.ts",
+    "description": "random",
+    "implements": [
+        "IPostMessageReacted"
+    ]
+}
